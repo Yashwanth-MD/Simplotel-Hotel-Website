@@ -6,7 +6,7 @@ This project was created as part of a frontend assignment/demo.
 ---
 
 ## 🚀 Live Demo
-👉 [View Website](https://<your-username>.github.io/simplotel/)  
+👉 [View Website](https://<Yashwanth-MD>.github.io/simplotel/)  
 *(Replace `<your-username>` with your GitHub username after enabling GitHub Pages in your repo settings.)*
 
 ---
